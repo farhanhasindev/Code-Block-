@@ -1,0 +1,8 @@
+{
+  "name": "CodeBlock",
+  "description": "The ultimate visual logic engine with integrated Gemini AI for image generation, live web search, and complex reasoning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
